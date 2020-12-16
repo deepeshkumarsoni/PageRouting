@@ -11,7 +11,6 @@ const routes: Routes = [
   },
   {
     path: 'productlist',
-    pathMatch: 'full',
     component: ProductlistComponent   
   }
 ];
